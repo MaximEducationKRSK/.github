@@ -49,7 +49,7 @@ MaximEdu — это веб-приложение, которое помогает
 - 📖 [О проекте и основателе](https://github.com/MaximEducationKRSK/about)
 - 💻 [Репозиторий проекта](https://github.com/MaximEducationKRSK/maximedu)
 - 🌐 Сайт: [maximedu.online](https://maximedu.online)
-- 📧 Email: marchenko061104@gmail.com
+- 📧 Email: mr.maximedu@mail.ru
 
 ---
 

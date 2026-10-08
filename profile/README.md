@@ -124,10 +124,10 @@ Backend: ASP.NET Core
 ---
 
 ##🔗 Полезные ссылки
-📖 [О проекте и основателе](https://github.com/MaximEducationKRSK)
 - 💻 [Репозиторий проекта](https://github.com/marchenko061104-beep/MaximEduBoard)
 - 🌐 Сайт: [maximedu.online](https://maximeduboard.online)
 - 📧 Email: mr.maximedu@mail.ru
+- [О проекте и основателе](https://github.com/MaximEducationKRSK)
 
 - ---
 
